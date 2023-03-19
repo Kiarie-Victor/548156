@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Kiarie Victor
+- Proud African.
+- Currently a student pursuing a Bachelors Degree in Software Engineering -Multimedia University
 - 👀 I’m interested in Web application and android development
-- 🌱 I’m currently learning java and python
+- Fluent in C,C++,Java,HTML,CSS,JavaScript
+- 🌱 I’m currently python
 
